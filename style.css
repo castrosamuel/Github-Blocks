@@ -1,0 +1,7 @@
+#topBox {width:100%;height:220px; background-color: lightblue;justify-content:space-around;align-items: center;display: flex;margin-bottom:10px;}
+#midBox {width:100%;height:220px; justify-content: space-evenly;background-color: lightcoral;align-items: center;display: flex;margin-bottom:10px;}
+#botBox {width:100%;height:200px;background-color: lightgray;display: flex;justify-content:center;align-items:center;}
+#topBox img.octocat, #midBox img.octocat {height: 180px;}
+#botBox img.octocat {height: 200px;}
+#mainWrap {background-color: gray;width:600px;padding:20px;}
+p, h1{text-align:center;}
